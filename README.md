@@ -1,0 +1,1 @@
+# astro-5-integration-mdx-entry-point-repro
