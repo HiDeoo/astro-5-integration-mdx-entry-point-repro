@@ -1,0 +1,16 @@
+{
+  "name": "@repro/integration",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "exports": {
+    ".": "./index.ts",
+    "./package.json": "./package.json"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.0.0-beta.3"
+  },
+  "peerDependencies": {
+    "astro": "^5.0.0-beta.0"
+  }
+}

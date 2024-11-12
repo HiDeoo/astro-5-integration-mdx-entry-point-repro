@@ -1,0 +1,17 @@
+{
+  "name": "@repro/docs",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@repro/integration": "workspace:*",
+    "astro": "^5.0.0-beta.7",
+    "typescript": "^5.6.3"
+  }
+}
